@@ -1,0 +1,470 @@
+[
+    {
+        "name": "Deli",
+        "upright_meaning": "Yeni başlangıçlar, macera, bilinmeyen yollar, saflık.",
+        "reversed_meaning": "Düşüncesizlik, dikkatsizlik, sorumsuzluk.",
+        "categories": ["yeni başlangıçlar", "macera", "saflık"]
+    },
+    {
+        "name": "Büyücü",
+        "upright_meaning": "Yaratıcılık, güç, beceri, kendine güven.",
+        "reversed_meaning": "Manipülasyon, aldatmaca, yanıltıcı güç.",
+        "categories": ["yaratıcılık", "beceri", "kendine güven"]
+    },
+    {
+        "name": "Başrahibe",
+        "upright_meaning": "Gizem, sezgi, içsel bilgi, sırlar.",
+        "reversed_meaning": "Bilinçsizlik, sezgilerin zayıflığı, sırların ortaya çıkışı.",
+        "categories": ["sezgi", "içsel bilgi", "sırlar"]
+    },
+    {
+        "name": "İmparatoriçe",
+        "upright_meaning": "Bereket, doğurganlık, annelik, doğa.",
+        "reversed_meaning": "Yaratıcılığın engellenmesi, aşırı korumacılık.",
+        "categories": ["bereket", "annelik", "doğa"]
+    },
+    {
+        "name": "İmparator",
+        "upright_meaning": "Otorite, yapı, kontrol, liderlik.",
+        "reversed_meaning": "Zalimlik, baskıcılık, disiplin eksikliği.",
+        "categories": ["otorite", "liderlik", "kontrol"]
+    },
+    {
+        "name": "Aziz",
+        "upright_meaning": "Gelenek, dini rehberlik, ruhani bilgi.",
+        "reversed_meaning": "İsyan, geleneklerin sorgulanması, özgür düşünce.",
+        "categories": ["gelenek", "dini rehberlik", "ruhani bilgi"]
+    },
+    {
+        "name": "Aşıklar",
+        "upright_meaning": "Aşk, birliktelik, seçim yapma.",
+        "reversed_meaning": "Uyumsuzluk, dengesizlik, yanlış seçimler.",
+        "categories": ["aşk", "birliktelik", "kararlar"]
+    },
+    {
+        "name": "Savaş Arabası",
+        "upright_meaning": "Zafer, irade gücü, kontrol.",
+        "reversed_meaning": "Yön kaybı, aşırı hırs, kontrolsüzlük.",
+        "categories": ["zafer", "irade gücü", "kontrol"]
+    },
+    {
+        "name": "Güç",
+        "upright_meaning": "Cesaret, içsel güç, dayanıklılık.",
+        "reversed_meaning": "Zayıflık, korkaklık, kontrol kaybı.",
+        "categories": ["cesaret", "içsel güç", "dayanıklılık"]
+    },
+    {
+        "name": "Ermiş",
+        "upright_meaning": "İçsel arayış, yalnızlık, bilgelik.",
+        "reversed_meaning": "İzolasyon, rehberlik eksikliği, yalnızlıktan kaçış.",
+        "categories": ["içsel arayış", "bilgelik", "yalnızlık"]
+    },
+    {
+        "name": "Kader Çarkı",
+        "upright_meaning": "Değişim, şans, döngüler.",
+        "reversed_meaning": "Beklenmedik değişiklikler, talihsizlik, kontrolsüz kader.",
+        "categories": ["değişim", "şans", "döngüler"]
+    },
+    {
+        "name": "Adalet",
+        "upright_meaning": "Denge, adalet, doğru kararlar.",
+        "reversed_meaning": "Adaletsizlik, dengesizlik, yanlış yargı.",
+        "categories": ["denge", "adalet", "doğru kararlar"]
+    },
+    {
+        "name": "Asılan Adam",
+        "upright_meaning": "Teslimiyet, fedakarlık, yeni bakış açısı.",
+        "reversed_meaning": "Direnç, gecikme, fedakarlık eksikliği.",
+        "categories": ["teslimiyet", "fedakarlık", "yeni bakış açısı"]
+    },
+    {
+        "name": "Ölüm",
+        "upright_meaning": "Dönüşüm, sona erme, yeni başlangıçlar.",
+        "reversed_meaning": "Değişime direnç, zorlayıcı sonlar.",
+        "categories": ["dönüşüm", "sona erme", "başlangıçlar"]
+    },
+    {
+        "name": "Denge",
+        "upright_meaning": "Denge, uyum, sabır.",
+        "reversed_meaning": "Aşırılık, dengesizlik, uyumsuzluk.",
+        "categories": ["denge", "uyum", "sabır"]
+    },
+    {
+        "name": "Şeytan",
+        "upright_meaning": "Bağımlılıklar, maddiyat, tuzaklar.",
+        "reversed_meaning": "Özgürleşme, bağımlılıklardan kurtuluş.",
+        "categories": ["bağımlılıklar", "maddiyat", "tuzaklar"]
+    },
+    {
+        "name": "Kule",
+        "upright_meaning": "Ani değişim, yıkım, aydınlanma.",
+        "reversed_meaning": "Yıkımdan kaçış, değişimi reddetme.",
+        "categories": ["ani değişim", "yıkım", "aydınlanma"]
+    },
+    {
+        "name": "Yıldız",
+        "upright_meaning": "Umut, rehberlik, yenilenme.",
+        "reversed_meaning": "Umutsuzluk, rehberlik eksikliği, yenilenememe.",
+        "categories": ["umut", "rehberlik", "yenilenme"]
+    },
+    {
+        "name": "Ay",
+        "upright_meaning": "Yanılsamalar, bilinçaltı, gizemler.",
+        "reversed_meaning": "Netlik, aydınlanma, yanılsamaların sona ermesi.",
+        "categories": ["yanılsamalar", "bilinçaltı", "gizemler"]
+    },
+    {
+        "name": "Güneş",
+        "upright_meaning": "Mutluluk, başarı, aydınlanma.",
+        "reversed_meaning": "Mutluluk eksikliği, başarısızlık, karanlık dönemler.",
+        "categories": ["mutluluk", "başarı", "aydınlanma"]
+    },
+    {
+        "name": "Mahkeme",
+        "upright_meaning": "Yeniden doğuş, hesaplaşma, yargı.",
+        "reversed_meaning": "Kaçınılan hesaplaşmalar, kararsızlık.",
+        "categories": ["yeniden doğuş", "hesaplaşma", "yargı"]
+    },
+    {
+        "name": "Dünya",
+        "upright_meaning": "Tamamlanma, başarı, bütünlük.",
+        "reversed_meaning": "Tamamlanmamışlık, sonuca varamama.",
+        "categories": ["tamamlanma", "başarı", "bütünlük"]
+    },
+    {
+        "name": "As Kupa",
+        "upright_meaning": "Yeni duygusal başlangıçlar, aşk, sevgi.",
+        "reversed_meaning": "Bastırılmış duygular, sevgi eksikliği, duygusal boşluk.",
+        "categories": ["duygusal başlangıçlar", "aşk", "sevgi"]
+    },
+    {
+        "name": "İkili Kupa",
+        "upright_meaning": "Ortaklık, birlik, denge, sevgi dolu ilişkiler.",
+        "reversed_meaning": "Uyum eksikliği, ilişkilerde zorluk, dengesizlik.",
+        "categories": ["ortaklık", "birlik", "denge", "sevgi"]
+    },
+    {
+        "name": "Üçlü Kupa",
+        "upright_meaning": "Kutlama, arkadaşlık, topluluk, keyif.",
+        "reversed_meaning": "İzolasyon, yalnızlık, duygusal uzaklık.",
+        "categories": ["kutlama", "arkadaşlık", "topluluk", "keyif"]
+    },
+    {
+        "name": "Dörtlü Kupa",
+        "upright_meaning": "Duygusal doyumsuzluk, hayal kırıklığı, içsel arayış.",
+        "reversed_meaning": "Motivasyon eksikliği, fırsatların farkında olmama.",
+        "categories": ["duygusal doyumsuzluk", "hayal kırıklığı", "içsel arayış"]
+    },
+    {
+        "name": "Beşli Kupa",
+        "upright_meaning": "Kayıp, keder, hayal kırıklığı, pişmanlık.",
+        "reversed_meaning": "Yeniden umut bulma, kayıpların ardından gelen iyileşme.",
+        "categories": ["kayıp", "keder", "hayal kırıklığı", "pişmanlık"]
+    },
+    {
+        "name": "Altılı Kupa",
+        "upright_meaning": "Geçmişe dönüş, nostalji, çocukluk anıları.",
+        "reversed_meaning": "Geçmişe saplanıp kalma, ilerleyememe.",
+        "categories": ["geçmişe dönüş", "nostalji", "çocukluk anıları"]
+    },
+    {
+        "name": "Yedili Kupa",
+        "upright_meaning": "Hayal kurma, illüzyon, çok sayıda seçenek.",
+        "reversed_meaning": "Kararsızlık, net bir seçim yapamama, illüzyonlardan kurtulma.",
+        "categories": ["hayal kurma", "illüzyon", "çok sayıda seçenek"]
+    },
+    {
+        "name": "Sekizli Kupa",
+        "upright_meaning": "Bir şeyleri geride bırakma, yeni bir yola çıkma, içsel yolculuk.",
+        "reversed_meaning": "Bağlanma korkusu, kaçınılmaz olanı terk etme.",
+        "categories": ["geride bırakma", "yeni yol", "içsel yolculuk"]
+    },
+    {
+        "name": "Dokuzlu Kupa",
+        "upright_meaning": "Tatmin, mutluluk, dileklerin gerçekleşmesi.",
+        "reversed_meaning": "Aşırı doyum, şımarıklık, arzuların yerine gelmemesi.",
+        "categories": ["tatmin", "mutluluk", "dileklerin gerçekleşmesi"]
+    },
+    {
+        "name": "Onlu Kupa",
+        "upright_meaning": "Aile mutluluğu, duygusal uyum, tamamlanmışlık.",
+        "reversed_meaning": "Aile içi sorunlar, mutsuzluk, duygusal tatminsizlik.",
+        "categories": ["aile mutluluğu", "duygusal uyum", "tamamlanmışlık"]
+    },
+    {
+        "name": "Vale Kupa",
+        "upright_meaning": "Duygusal haberler, romantik teklifler, yaratıcı fikirler.",
+        "reversed_meaning": "Duygusal olgunlaşmamışlık, hayal kırıklığı.",
+        "categories": ["duygusal haberler", "romantik teklifler", "yaratıcı fikirler"]
+    },
+    {
+        "name": "Şövalye Kupa",
+        "upright_meaning": "Romantik teklifler, idealist aşk, yaratıcı projeler.",
+        "reversed_meaning": "Kayıtsızlık, duygusal dengesizlik, aşırı hayalcilik.",
+        "categories": ["romantik teklifler", "idealist aşk", "yaratıcı projeler"]
+    },
+    {
+        "name": "Kraliçe Kupa",
+        "upright_meaning": "Sezgi, şefkat, empati, duygusal anlayış.",
+        "reversed_meaning": "Duygusal manipülasyon, hassasiyetin aşırılığı, içsel dengesizlik.",
+        "categories": ["sezgi", "şefkat", "empati", "duygusal anlayış"]
+    },
+    {
+        "name": "Kral Kupa",
+        "upright_meaning": "Duygusal denge, olgunluk, bilgelik, şefkatli liderlik.",
+        "reversed_meaning": "Duygusal katılık, baskı, empati eksikliği.",
+        "categories": ["duygusal denge", "olgunluk", "bilgelik", "şefkatli liderlik"]
+    },
+    {
+        "name": "As Kılıç",
+        "upright_meaning": "Yeni fikirler, netlik, gerçeklik, karar verme.",
+        "reversed_meaning": "Zihinsel karışıklık, gerçeği görmezden gelme, kararsızlık.",
+        "categories": ["yeni fikirler", "netlik", "gerçeklik", "karar verme"]
+    },
+    {
+        "name": "İkili Kılıç",
+        "upright_meaning": "Kararsızlık, ikilem, denge arayışı.",
+        "reversed_meaning": "Karar verememe, zorluklar arasında sıkışıp kalma.",
+        "categories": ["kararsızlık", "ikilem", "denge arayışı"]
+    },
+    {
+        "name": "Üçlü Kılıç",
+        "upright_meaning": "Kalp kırıklığı, acı, ihanet, kayıp.",
+        "reversed_meaning": "İyileşme süreci, acıdan kurtulma, uzlaşma.",
+        "categories": ["kalp kırıklığı", "acı", "ihanet", "kayıp"]
+    },
+    {
+        "name": "Dörtlü Kılıç",
+        "upright_meaning": "Dinlenme, iyileşme, içe dönüş, yeniden enerji toplama.",
+        "reversed_meaning": "Dinlenmeyi reddetme, zihinsel yorgunluk, içsel huzursuzluk.",
+        "categories": ["dinlenme", "iyileşme", "içe dönüş", "yeniden enerji toplama"]
+    },
+    {
+        "name": "Beşli Kılıç",
+        "upright_meaning": "Çatışma, kayıplar, zaferin bedeli.",
+        "reversed_meaning": "Barış arayışı, uzlaşma, çatışmalardan kaçınma.",
+        "categories": ["çatışma", "kayıplar", "zaferin bedeli"]
+    },
+    {
+        "name": "Altılı Kılıç",
+        "upright_meaning": "Geçmişten uzaklaşma, zor bir dönemi geride bırakma.",
+        "reversed_meaning": "İlerleyememe, geçmişe saplanıp kalma, değişim korkusu.",
+        "categories": ["geçmişten uzaklaşma", "zor dönem", "geride bırakma"]
+    },
+    {
+        "name": "Yedili Kılıç",
+        "upright_meaning": "Hile, gizlilik, strateji, kaçınma.",
+        "reversed_meaning": "Gerçeğin ortaya çıkması, dürüstlük, stratejilerin başarısızlığı.",
+        "categories": ["hile", "gizlilik", "strateji", "kaçınma"]
+    },
+    {
+        "name": "Sekizli Kılıç",
+        "upright_meaning": "Kısıtlanmışlık, zihinsel tuzaklar, kendini sınırlama.",
+        "reversed_meaning": "Özgürleşme, zihinsel berraklık, engelleri aşma.",
+        "categories": ["kısıtlanmışlık", "zihinsel tuzaklar", "kendini sınırlama"]
+    },
+    {
+        "name": "Dokuzlu Kılıç",
+        "upright_meaning": "Korkular, endişeler, kabuslar, zihinsel işkence.",
+        "reversed_meaning": "İç huzurun geri dönüşü, korkulardan kurtulma, iyileşme.",
+        "categories": ["korkular", "endişeler", "kabuslar", "zihinsel işkence"]
+    },
+    {
+        "name": "Onlu Kılıç",
+        "upright_meaning": "Zor bir son, ihanet, acı bir bitiş.",
+        "reversed_meaning": "İyileşme, zor bir durumun sona ermesi, yeni bir başlangıç.",
+        "categories": ["zor son", "ihanet", "acı bitiş"]
+    },
+    {
+        "name": "Vale Kılıç",
+        "upright_meaning": "Zihinsel berraklık, yeni fikirler, merak, keşif.",
+        "reversed_meaning": "Dedikodular, yanlış anlamalar, iletişim sorunları.",
+        "categories": ["zihinsel berraklık", "yeni fikirler", "merak", "keşif"]
+    },
+    {
+        "name": "Şövalye Kılıç",
+        "upright_meaning": "Hızlı hareket, kararlılık, cesaret, fikirlerin savunulması.",
+        "reversed_meaning": "Düşüncesizlik, acelecilik, aşırı sertlik.",
+        "categories": ["hızlı hareket", "kararlılık", "cesaret", "fikirlerin savunulması"]
+    },
+    {
+        "name": "Kraliçe Kılıç",
+        "upright_meaning": "Zihinsel berraklık, adalet, bağımsızlık, içgörü.",
+        "reversed_meaning": "Soğukluk, acımasızlık, aşırı eleştiricilik.",
+        "categories": ["zihinsel berraklık", "adalet", "bağımsızlık", "içgörü"]
+    },
+    {
+        "name": "Kral Kılıç",
+        "upright_meaning": "Zihinsel otorite, adalet, liderlik, mantık.",
+        "reversed_meaning": "Despotluk, katılık, empati eksikliği.",
+        "categories": ["zihinsel otorite", "adalet", "liderlik", "mantık"]
+    },
+    {
+        "name": "As Değnek",
+        "upright_meaning": "Yeni başlangıçlar, ilham, yaratıcı projeler.",
+        "reversed_meaning": "Engellenmiş yaratıcılık, motivasyon eksikliği, yeni fırsatların farkında olmama.",
+        "categories": ["yeni başlangıçlar", "ilham", "yaratıcı projeler"]
+    },
+    {
+        "name": "İkili Değnek",
+        "upright_meaning": "Planlama, strateji, geleceğe yönelik düşünceler.",
+        "reversed_meaning": "Kararsızlık, hareketsizlik, gelecekle ilgili belirsizlik.",
+        "categories": ["planlama", "strateji", "geleceğe yönelik düşünceler"]
+    },
+    {
+        "name": "Üçlü Değnek",
+        "upright_meaning": "İlerleme, genişleme, geleceğe yönelik fırsatlar.",
+        "reversed_meaning": "Beklentilerin karşılanmaması, planların bozulması.",
+        "categories": ["ilerleme", "genişleme", "geleceğe yönelik fırsatlar"]
+    },
+    {
+        "name": "Dörtlü Değnek",
+        "upright_meaning": "Kutlama, istikrar, topluluk, başarı.",
+        "reversed_meaning": "Güvensizlik, istikrarsızlık, başarının engellenmesi.",
+        "categories": ["kutlama", "istikrar", "topluluk", "başarı"]
+    },
+    {
+        "name": "Beşli Değnek",
+        "upright_meaning": "Çatışma, rekabet, zorluklar, anlaşmazlıklar.",
+        "reversed_meaning": "Uyum, çatışmaların çözümü, rekabetin sona ermesi.",
+        "categories": ["çatışma", "rekabet", "zorluklar", "anlaşmazlıklar"]
+    },
+    {
+        "name": "Altılı Değnek",
+        "upright_meaning": "Zafer, tanınma, başarı, ilerleme.",
+        "reversed_meaning": "Başarısızlık, tanınmama, zaferin engellenmesi.",
+        "categories": ["zafer", "tanınma", "başarı", "ilerleme"]
+    },
+    {
+        "name": "Yedili Değnek",
+        "upright_meaning": "Savunma, mücadele, zorlukların üstesinden gelme.",
+        "reversed_meaning": "Teslimiyet, mücadele isteksizliği, savunmasız kalma.",
+        "categories": ["savunma", "mücadele", "zorlukların üstesinden gelme"]
+    },
+    {
+        "name": "Sekizli Değnek",
+        "upright_meaning": "Hızlı hareket, ani değişiklikler, ilerleme.",
+        "reversed_meaning": "Gecikmeler, durgunluk, ilerleme eksikliği.",
+        "categories": ["hızlı hareket", "ani değişiklikler", "ilerleme"]
+    },
+    {
+        "name": "Dokuzlu Değnek",
+        "upright_meaning": "Dayanıklılık, direnç, mücadele sonrası toparlanma.",
+        "reversed_meaning": "Yorulma, mücadele isteksizliği, direncin kırılması.",
+        "categories": ["dayanıklılık", "direnç", "mücadele sonrası toparlanma"]
+    },
+    {
+        "name": "Onlu Değnek",
+        "upright_meaning": "Aşırı yük, sorumluluklar, ağır iş yükü.",
+        "reversed_meaning": "Yüklerin hafiflemesi, sorumlulukların azalması, destek arayışı.",
+        "categories": ["aşırı yük", "sorumluluklar", "ağır iş yükü"]
+    },
+    {
+        "name": "Vale Değnek",
+        "upright_meaning": "Yeni fikirler, ilham, öğrenme isteği, macera.",
+        "reversed_meaning": "Kararsızlık, plansız hareket etme, yönsüzlük.",
+        "categories": ["yeni fikirler", "ilham", "öğrenme isteği", "macera"]
+    },
+    {
+        "name": "Şövalye Değnek",
+        "upright_meaning": "Macera, keşif, tutku, yeni başlangıçlar.",
+        "reversed_meaning": "Acelecilik, düşüncesiz hareketler, plansızlık.",
+        "categories": ["macera", "keşif", "tutku", "yeni başlangıçlar"]
+    },
+    {
+        "name": "Kraliçe Değnek",
+        "upright_meaning": "Yaratıcılık, liderlik, ilham, sıcaklık.",
+        "reversed_meaning": "Egoizm, kıskançlık, aşırı kontrol.",
+        "categories": ["yaratıcılık", "liderlik", "ilham", "sıcaklık"]
+    },
+    {
+        "name": "Kral Değnek",
+        "upright_meaning": "Liderlik, vizyon, cesaret, ilham.",
+        "reversed_meaning": "Despotluk, kontrolsüz güç, aşırı hırs.",
+        "categories": ["liderlik", "vizyon", "cesaret", "ilham"]
+    },
+    {
+        "name": "As Para",
+        "upright_meaning": "Yeni maddi başlangıçlar, fırsatlar, finansal başarı.",
+        "reversed_meaning": "Maddi kayıplar, fırsatların kaçırılması, güven eksikliği.",
+        "categories": ["yeni maddi başlangıçlar", "fırsatlar", "finansal başarı"]
+    },
+    {
+        "name": "İkili Para",
+        "upright_meaning": "Denge, esneklik, finansal kararlar, değişim.",
+        "reversed_meaning": "Dengesizlik, finansal zorluklar, karar vermekte zorlanma.",
+        "categories": ["denge", "esneklik", "finansal kararlar", "değişim"]
+    },
+    {
+        "name": "Üçlü Para",
+        "upright_meaning": "İşbirliği, takım çalışması, yeteneklerin tanınması.",
+        "reversed_meaning": "İşbirliği eksikliği, yeteneklerin tanınmaması, projelerde zorluklar.",
+        "categories": ["işbirliği", "takım çalışması", "yeteneklerin tanınması"]
+    },
+    {
+        "name": "Dörtlü Para",
+        "upright_meaning": "Maddi güvenlik, biriktirme, sahiplenme.",
+        "reversed_meaning": "Açgözlülük, cimrilik, paylaşamama.",
+        "categories": ["maddi güvenlik", "biriktirme", "sahiplenme"]
+    },
+    {
+        "name": "Beşli Para",
+        "upright_meaning": "Maddi kayıplar, yoksulluk, zor zamanlar.",
+        "reversed_meaning": "Maddi zorluklardan kurtulma, destek bulma, umut.",
+        "categories": ["maddi kayıplar", "yoksulluk", "zor zamanlar"]
+    },
+    {
+        "name": "Altılı Para",
+        "upright_meaning": "Cömertlik, yardımlaşma, denge, destek.",
+        "reversed_meaning": "Dengesizlik, dengesiz yardım, bencillik.",
+        "categories": ["cömertlik", "yardımlaşma", "denge", "destek"]
+    },
+    {
+        "name": "Yedili Para",
+        "upright_meaning": "Sabır, planlama, yatırım, uzun vadeli düşünme.",
+        "reversed_meaning": "Sabırsızlık, başarısız yatırımlar, beklenen sonuçların alınamaması.",
+        "categories": ["sabır", "planlama", "yatırım", "uzun vadeli düşünme"]
+    },
+    {
+        "name": "Sekizli Para",
+        "upright_meaning": "Çalışma, yetenek geliştirme, pratik beceriler, özveri.",
+        "reversed_meaning": "Motivasyon kaybı, yeteneklerin boşa gitmesi, tatminsizlik.",
+        "categories": ["çalışma", "yetenek geliştirme", "pratik beceriler", "özveri"]
+    },
+    {
+        "name": "Dokuzlu Para",
+        "upright_meaning": "Maddi bağımsızlık, başarı, kendine güven, refah.",
+        "reversed_meaning": "Aşırı bağımsızlık, yalnızlık, maddi zorluklar.",
+        "categories": ["maddi bağımsızlık", "başarı", "kendine güven", "refah"]
+    },
+    {
+        "name": "Onlu Para",
+        "upright_meaning": "Aile, maddi güvenlik, miras, uzun vadeli başarı.",
+        "reversed_meaning": "Aile içi maddi sorunlar, güvenlik eksikliği, maddi kayıplar.",
+        "categories": ["aile", "maddi güvenlik", "miras", "uzun vadeli başarı"]
+    },
+    {
+        "name": "Vale Para",
+        "upright_meaning": "Yeni maddi fırsatlar, öğrenme isteği, başlangıçlar.",
+        "reversed_meaning": "Maddi karar vermekte zorlanma, yönsüzlük, fırsatların kaçırılması.",
+        "categories": ["yeni maddi fırsatlar", "öğrenme isteği", "başlangıçlar"]
+    },
+    {
+        "name": "Şövalye Para",
+        "upright_meaning": "Sorumluluk, bağlılık, çalışma azmi, pratiklik.",
+        "reversed_meaning": "Aşırı sorumluluk yükü, monotonluk, değişime direnç.",
+        "categories": ["sorumluluk", "bağlılık", "çalışma azmi", "pratiklik"]
+    },
+    {
+        "name": "Kraliçe Para",
+        "upright_meaning": "Güvenlik, pratiklik, besleyici enerji, maddi denge.",
+        "reversed_meaning": "Maddi endişeler, aşırı pratiklik, bencillik.",
+        "categories": ["güvenlik", "pratiklik", "besleyici enerji", "maddi denge"]
+    },
+    {
+        "name": "Kral Para",
+        "upright_meaning": "Maddi başarı, liderlik, güvenlik, sorumluluk.",
+        "reversed_meaning": "Maddi hırs, aşırı kontrol, bencillik.",
+        "categories": ["maddi başarı", "liderlik", "güvenlik", "sorumluluk"]
+    }
+]
